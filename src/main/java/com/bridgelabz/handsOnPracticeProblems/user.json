@@ -1,0 +1,7 @@
+{
+  "id": 101,
+  "name": "Ishaan",
+  "age": 22,
+  "email": "ishaan@example.com",
+  "skills": ["Java", "Spring Boot"]
+}
